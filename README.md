@@ -2,6 +2,8 @@
 
 Welcome to the **Full Course on NLP** repository! This course is designed to help you master Natural Language Processing concepts, from the basics to advanced techniques, with practical implementations using Python and popular NLP libraries.
 
+![image](https://github.com/user-attachments/assets/e3528f35-5198-4026-8b3a-5ff5d5f18fbc)
+
 ## 🚀 Course Overview
 
 This course covers:
